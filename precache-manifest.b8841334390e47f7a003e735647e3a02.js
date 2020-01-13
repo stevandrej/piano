@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3debf38659696afd4dc7c8ed2a923bc0",
+    "revision": "bc487d323403bd3d156309a337613558",
     "url": "/piano/index.html"
   },
   {
-    "revision": "ed608d2ae0e47b46c44d",
-    "url": "/piano/static/css/main.2f4e505c.chunk.css"
+    "revision": "4e1b3d7eb9ef4f090d22",
+    "url": "/piano/static/css/main.e00ae18e.chunk.css"
   },
   {
     "revision": "d22a5a87d79020bf5c1c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piano/static/js/2.5ad7edbf.chunk.js.LICENSE"
   },
   {
-    "revision": "ed608d2ae0e47b46c44d",
+    "revision": "4e1b3d7eb9ef4f090d22",
     "url": "/piano/static/js/main.8be82fa2.chunk.js"
   },
   {
