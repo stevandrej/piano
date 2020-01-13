@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff09253d6c634aad4f894aedd710c5fe",
+    "revision": "41b4dc113dd470c5b1ccd7eae11b8b3c",
     "url": "/piano/index.html"
   },
   {
-    "revision": "4e1b3d7eb9ef4f090d22",
+    "revision": "89bab0eb7070ba755397",
     "url": "/piano/static/css/main.e00ae18e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piano/static/js/2.5ad7edbf.chunk.js.LICENSE"
   },
   {
-    "revision": "4e1b3d7eb9ef4f090d22",
-    "url": "/piano/static/js/main.8be82fa2.chunk.js"
+    "revision": "89bab0eb7070ba755397",
+    "url": "/piano/static/js/main.d56c8b05.chunk.js"
   },
   {
     "revision": "1664da884654c74b3356",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piano/static/media/re.0f8445aa.mp3"
   },
   {
-    "revision": "afab7370aeaf9bd8c182c56329c92633",
-    "url": "/piano/static/media/si.afab7370.mp3"
+    "revision": "32e63dc28496f30ba30b67f65a6529a7",
+    "url": "/piano/static/media/si.32e63dc2.mp3"
   },
   {
     "revision": "1a5ea7eb8d1e27138129e7bc6151034c",
